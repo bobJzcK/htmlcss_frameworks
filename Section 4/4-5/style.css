@@ -1,0 +1,5 @@
+body { border: 2px solid #ffff00; color: rgb(255, 0, 0); }
+h1 { border: 2px solid #ff0000; color: rgb(0, 0, 255); }
+div p { border: 2px solid #800080; color: rgb(0, 128, 0); }
+.link { border: 2px solid #008000; color: rgb(255, 255, 0); }
+#paragraph { border: 2px solid #0000ff; color: rgb(128, 0, 128); }
