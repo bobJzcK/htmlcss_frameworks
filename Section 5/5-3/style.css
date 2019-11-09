@@ -1,0 +1,17 @@
+* { padding: 0; margin: 0; }
+body { font-family: "Roboto", sans-serif; }
+h1 { margin-bottom: 20px; }
+a { text-decoration: none; }
+
+.btn {
+  padding: 10px 25px;
+  color: #222;
+  border: 2px solid #222;
+}
+
+.btn-blue { background-color: #08abd4; }
+.btn-red { background-color: #ff170f; }
+.btn-green { background-color: #34ff10; }
+.btn-orange { background-color: #ff9b18; }
+.btn-purple { background-color: #c70fff; }
+.btn-cyan { background-color: #1cecff; }
