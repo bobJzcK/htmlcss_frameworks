@@ -1,0 +1,23 @@
+body { font-family: "Roboto", sans-serif; }
+
+.box {
+  font-size: 50px;
+  color: white;
+  padding: 10px;
+  text-align:center;
+  font-weight: 700;
+  box-sizing: border-box;
+  -webkit-text-fill-color: white;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
+}
+
+.box1 { background-color: #FF0000; }
+.box2 { background-color: #FF7F00; }
+.box3 { background-color: #FFFF00; }
+.box4 { background-color: #00FF00; }
+.box5 { background-color: #0000FF; }
+.box6 { background-color: #2E2B5F; }
+.box7 { background-color: #8B00FF; }
+
+.container { display: flex; border: 5px solid #000; }
