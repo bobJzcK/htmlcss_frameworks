@@ -1,7 +1,7 @@
 body { font-family: "Roboto", sans-serif; }
 
 .box {
-  width: 250px;
+  width: 100px;
   font-size: 50px;
   color: white;
   padding: 10px;
@@ -22,9 +22,7 @@ body { font-family: "Roboto", sans-serif; }
 .box7 { background-color: #8B00FF; }
 
 .container { 
-  height: 350px;
   display: flex; 
   border: 5px solid #000;
-  flex-direction: column; 
-  flex-wrap: wrap-reverse;
+  justify-content: space-between;
 }
