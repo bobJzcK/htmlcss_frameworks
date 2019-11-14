@@ -1,0 +1,28 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: "Roboto", sans-serif; }
+a { text-decoration: none; }
+
+.navbar {
+  background-color: #1a1a1a;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  padding: 16px;
+}
+
+.navbar ul {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+
+.navbar ul li a {
+  color: #fff;
+  padding: 12px;
+}
+
+.navbar ul li a:hover {
+  background-color: #fff;
+  color: #1a1a1a;
+  border-radius: 4px;
+}

@@ -1,0 +1,30 @@
+body { font-family: "Roboto", sans-serif; }
+
+.box {
+  width: 100px;
+  font-size: 50px;
+  color: white;
+  padding: 10px;
+  text-align:center;
+  font-weight: 700;
+  box-sizing: border-box;
+  -webkit-text-fill-color: white;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
+}
+
+.box3 { background-color: #FFFF00; order: 4; align-self: flex-start; }
+.box2 { background-color: #FF7F00; order: 4; }
+.box7 { background-color: #8B00FF; order: 3; align-self: flex-start; }
+.box5 { background-color: #0000FF; order: 2; align-self: stretch; }
+.box4 { background-color: #00FF00; order: 2; }
+.box6 { background-color: #2E2B5F; order: 1; }
+.box1 { background-color: #FF0000; order: 1; align-self: flex-start; }
+
+.container { 
+  height: 300px;
+  display: flex; 
+  border: 5px solid #000;
+  justify-content: center;
+  align-items: flex-end;
+}
