@@ -1,0 +1,24 @@
+body { font-family: "Roboto", sans-serif; }
+
+.box {
+  font-size: 50px;
+  color: white;
+  padding: 10px;
+  text-align:center;
+  font-weight: 700;
+  box-sizing: border-box;
+  -webkit-text-fill-color: white;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
+  flex-basis: 300px;
+  flex-grow: 1;
+}
+
+.box1 { background-color: #00ccff; flex-shrink: 0;}
+.box2 { background-color: #FF7F00; flex-shrink: 1;}
+.box3 { background-color: #FFFF00; flex-shrink: 2;}
+
+.container { 
+  display: flex; 
+  border: 5px solid #000;
+}
