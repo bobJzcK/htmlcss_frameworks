@@ -154,3 +154,37 @@ Placeholder
 
 - Code source: [6-3](./Section%206/6-3)
 - Ressources: [W3School](https://www.w3schools.com/css/css3_box-sizing.asp)
+
+### 6-4
+
+- Code source: [6-4](./Section%206/6-4)
+- Ressources: /
+
+### 6-5
+
+- Code source: [6-5](./Section%206/6-5)
+- Ressources: /
+
+### 6-6
+
+- Code source: [6-6](./Section%206/6-6)
+- Ressources: /
+
+## Section 7
+
+Placeholder
+
+### 7-2
+
+- Code source: [7-2](./Section%207/7-2)
+- Ressources: /
+
+### 7-3
+
+- Code source: [7-3](./Section%207/7-3)
+- Ressources: /
+
+### 7-4
+
+- Code source: [7-4](./Section%207/7-4)
+- Ressources: /
